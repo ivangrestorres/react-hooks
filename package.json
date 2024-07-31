@@ -1,0 +1,23 @@
+{
+    "name": "@ivangrestorres/react-hooks",
+    "version": "0.0.1",
+    "description": "Libreria de hooks para aplicaciones de React",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "jest",
+        "build": "tsc"
+    },
+    "author": "",
+    "license": "ISC",
+    "peerDependencies": {
+        "react": "17 || 18",
+        "axios": "1"
+    },
+    "devDependencies": {
+        "@types/react": "^18.2.61",
+        "axios": "^1.6.7"
+    },
+    "files": [
+        "dist"
+    ]
+}
